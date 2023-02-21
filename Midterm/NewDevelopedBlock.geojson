@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NewDevelopedBlock",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -115.146064912692793, 36.121635791077729 ], [ -115.146255006491742, 36.114851818627798 ], [ -115.137962164512672, 36.114816176040492 ], [ -115.137641381226942, 36.12198033608832 ], [ -115.143938238317077, 36.122075382987795 ], [ -115.146064912692793, 36.121635791077729 ] ] ] ] } }
+]
+}
